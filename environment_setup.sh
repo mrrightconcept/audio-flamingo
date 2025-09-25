@@ -30,7 +30,7 @@ pip install hydra-core loguru Pillow pydub
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu128
 
 # Install FlashAttention2
-pip install flash_attn==2.7.3
+# pip install flash_attn==2.7.3
 pip install transformers==4.46.0
 pip install pytorchvideo==0.1.5
 pip install deepspeed==0.15.4
